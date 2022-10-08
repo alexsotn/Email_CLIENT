@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kurs_email_alex.users">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACgAAECAAQIAgAAAEAAAgAAAAA=</HashCode>
+      <FileName>users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.main">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>GL2YMBC5gjAIyj6hQyGEkQQWIAI8L4BKAA4AoQABAAQ=</HashCode>
+      <FileName>main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.StructureSMS" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACEAAAAAAAEAAQABAAAEAAAAAAAAAAgAAAAAEAA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.Protokol">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAQAAAAAEAAAAAAAAAAAAgAAAAAAQAIUAAAA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.struct_sms_coding">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAAQ=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.save_param">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAEBAAAABAQAEAAAAABAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.ACT">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAAAAAAAAAAAAAMAAAgAIAAAAAiAAAAAAA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.coding_sms">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Kurs_email_alex.coding_sms.DEC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kurs_email_alex.coding_sms.RSA" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kurs_email_alex.coding_sms.SHA1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kurs_email_alex.coding_sms.DSA" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GlobalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAIIAAAECAgAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.form_sms">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAACAAABAAAACAAAACAAAAAAAAECAQAAAAAAA=</HashCode>
+      <FileName>form_sms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.form_setting">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAJCAAACAAAACAIAYAIAAgGACIAAAAAA=</HashCode>
+      <FileName>form_setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs_email_alex.form_sent">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>80AAACREAqQYDHGAgSWAkAICAkEYwAAIIEAQIQQQgGA=</HashCode>
+      <FileName>form_sent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
